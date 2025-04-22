@@ -35,14 +35,14 @@ Profesional versátil que combina conocimientos técnicos en electrónica y auto
 ## 💼 Experiencia Profesional
 
 ### Especialista en Sistemas de Codificación
-**United Barcode Systems** | 2023 - Presente
+**United Barcode Systems** | 2024 - Presente
 - Soporte técnico avanzado para sistemas de etiquetado industrial
 - Resolución de incidencias complejas para clientes internacionales
 - Configuración remota y diagnóstico de equipos de impresión industrial
 - Desarrollo de soluciones para optimizar procesos de etiquetado
 
 ### Técnico Electrónico
-**Sicma21** | 2018 - 2020
+**Sicma21** | 2022 - 2024
 - Reparación y mantenimiento de sistemas electrónicos industriales
 - Implementación de mejoras técnicas en entornos de producción
 - Resolución de problemas en instalaciones industriales
