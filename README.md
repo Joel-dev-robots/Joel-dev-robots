@@ -1,6 +1,6 @@
 # 👋 Hola, soy Joel Sánchez
 
-## 👨‍💻 Especialista en Sistemas de Codificación Industrial & Desarrollador Full Stack
+## 👨‍💻 Especialista en Robótica Industrial & Desarrollador Full Stack
 
 Profesional versátil que combina conocimientos técnicos en electrónica y automatización con habilidades avanzadas en desarrollo de software. Mi perfil híbrido me permite abordar proyectos desde múltiples perspectivas, creando soluciones integrales que conectan el mundo industrial con las tecnologías digitales modernas.
 
@@ -48,22 +48,6 @@ Profesional versátil que combina conocimientos técnicos en electrónica y auto
 - Resolución de problemas en instalaciones industriales
 - Integración de sistemas electrónicos con infraestructuras existentes
 
-## 🚀 Proyectos Destacados
-
-### Sistema de Monitorización Remota
-Plataforma integral para monitorizar y diagnosticar equipos de codificación industrial a distancia, implementando tecnologías web modernas conectadas con sistemas industriales.
-- **Tecnologías**: React, Node.js, WebSockets, MongoDB
-- **Repositorio**: [remote-monitoring-system](https://github.com/Joel-dev-robots/remote-monitoring-system)
-
-### Dashboard de Productividad
-Solución end-to-end para visualizar métricas de rendimiento de líneas de producción, con arquitectura escalable y visualizaciones avanzadas en tiempo real.
-- **Tecnologías**: React, TypeScript, Chart.js, Firebase
-- **Repositorio**: [productivity-dashboard](https://github.com/Joel-dev-robots/productivity-dashboard)
-
-### Sistema de Gestión de Incidencias
-Aplicación full stack para la gestión completa del ciclo de vida de incidencias técnicas, desde el registro hasta la resolución y análisis posterior.
-- **Tecnologías**: Next.js, Tailwind CSS, PostgreSQL
-- **Repositorio**: [incident-management](https://github.com/Joel-dev-robots/incident-management)
 
 ## 🌐 Idiomas
 
