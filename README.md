@@ -35,7 +35,7 @@ Profesional versátil que combina conocimientos técnicos en electrónica y auto
 ## 💼 Experiencia Profesional
 
 ### Especialista en Sistemas de Codificación
-**United Barcode Systems** | 2024 - Presente
+XYZ| 2024 - Presente
 - Soporte técnico avanzado para sistemas de etiquetado industrial
 - Resolución de incidencias complejas para clientes internacionales
 - Configuración remota y diagnóstico de equipos de impresión industrial
